@@ -1,6 +1,6 @@
 
 
-# JavaScript BestPractice #
+# JavaScript Best Practice #
 
 ***
 
